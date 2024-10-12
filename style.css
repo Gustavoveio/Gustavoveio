@@ -7,6 +7,10 @@
 
 .container{
     height: calc(100vh - 500px);
-    width: calc(50vw + 200px);
+    width: calc(50vw + 150px);
     background: rebeccapurple;
+}
+
+a{
+    text-align: center;
 }
